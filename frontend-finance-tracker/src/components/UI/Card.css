@@ -1,0 +1,16 @@
+
+.card{
+    border-radius: 10px;
+    background-color: lightblue;
+    border: 1px solid lightskyblue;
+    width: 50%;
+    margin: auto;
+    margin-top: 80px;
+    padding: 45px;
+}
+.nav-link{
+    color:white;
+}
+.adding{
+    padding: 10px 20px;
+}
